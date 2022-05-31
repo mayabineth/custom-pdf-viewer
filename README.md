@@ -1,4 +1,5 @@
 # custom-pdf-viewer
+react app for displaying a chosen PDF file, in a convenient way, without the possibility of copying the contents of the file.
 
 packages to install:
 
